@@ -15,11 +15,6 @@
       "PostgreSQL",
       "Prisma",
       "Jest"
-    ],
-    "featured": [
-      "portfolio",
-      "awesome-project",
-      "api-server"
     ]
   },
   "social": {
