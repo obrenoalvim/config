@@ -11,15 +11,11 @@
       "React",
       "Next.js",
       "Node.js",
+      "C#",
+      ".NET",
       "Tailwind CSS",
       "PostgreSQL",
-      "Prisma",
       "Jest"
     ]
-  },
-  "social": {
-    "linkedin": "seu-usuario",
-    "website": "https://seu-dominio.com",
-    "email": "voce@dominio.com"
   }
 }
