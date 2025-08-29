@@ -1,0 +1,30 @@
+{
+  "theme": {
+    "primaryColor": "#3B82F6",
+    "backgroundColor": "#F8FAFC",
+    "textColor": "#0F172A"
+  },
+  "sections": {
+    "about": "Sou desenvolvedor(a) Full-Stack com foco em TypeScript, React e Node.js. Gosto de construir produtos escaláveis, bem testados e com boa experiência de usuário.",
+    "skills": [
+      "TypeScript",
+      "React",
+      "Next.js",
+      "Node.js",
+      "Tailwind CSS",
+      "PostgreSQL",
+      "Prisma",
+      "Jest"
+    ],
+    "featured": [
+      "portfolio",
+      "awesome-project",
+      "api-server"
+    ]
+  },
+  "social": {
+    "linkedin": "seu-usuario",
+    "website": "https://seu-dominio.com",
+    "email": "voce@dominio.com"
+  }
+}
