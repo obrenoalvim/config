@@ -22,57 +22,25 @@
         "title": "Desenvolvedor Full-Stack Pleno",
         "company": "Movida Aluguel de Carros",
         "period": "10/2023 - Presente",
-        "summary": "Responsável pela sustentação e evolução de sistemas internos de gestão de contratos de veículos.",
-        "highlights": [
-          "Análise e correção de falhas recorrentes em sistemas críticos",
-          "Implementação de novas funcionalidades solicitadas pelo time de negócios",
-          "Frontend com Angular e backend em C# com .NET",
-          "Participação em rituais ágeis, alinhamento com analistas e QA",
-          "Aumento da cobertura de testes em módulos críticos",
-          "Redução de mais de 40% no tempo médio de resolução de incidentes críticos"
-        ]
+        "summary": "Responsável pela sustentação e evolução de sistemas internos de gestão de contratos de veículos."
       },
       {
         "title": "Desenvolvedor Full-Stack Pleno",
         "company": "Fazenda São Francisco",
         "period": "10/2022 - 10/2023",
-        "summary": "Liderou o desenvolvimento de um sistema de controle agrícola para substituir processos manuais.",
-        "highlights": [
-          "Análise de requisitos junto às equipes de campo e gestão",
-          "Arquitetura e implementação com React, C#/.NET e PostgreSQL",
-          "Integrações com sensores de campo e dashboards interativos",
-          "Melhoria na precisão dos registros operacionais",
-          "Otimização da produtividade da equipe",
-          "Redução do tempo de processamento de relatórios estratégicos"
-        ]
+        "summary": "Liderou o desenvolvimento de um sistema de controle agrícola para substituir processos manuais."
       },
       {
         "title": "Desenvolvedor Full-Stack",
         "company": "B-Tech",
         "period": "06/2020 - 10/2022",
-        "summary": "Atuou na modernização de sistemas legados monolíticos em microsserviços escaláveis.",
-        "highlights": [
-          "Redesenho de sistemas em microsserviços com Spring Boot e Java",
-          "Modelagem de arquitetura baseada em eventos",
-          "Implementação de cache com Redis",
-          "Testes automatizados com JUnit e Postman",
-          "Mentoria de desenvolvedores juniores e condução de code reviews",
-          "Redução de falhas em produção e aceleração da integração com parceiros externos"
-        ]
+        "summary": "Atuou na modernização de sistemas legados monolíticos em microsserviços escaláveis."
       },
       {
         "title": "Desenvolvedor Web Full-Stack",
         "company": "Capital Nerd",
         "period": "03/2018 - 06/2020",
-        "summary": "Desenvolvimento de sistemas sob demanda para clientes de diversos segmentos.",
-        "highlights": [
-          "Levantamento de requisitos e entrega final em produção",
-          "Frontend em Angular e backend em .NET Core (C#)",
-          "Aplicação de componentização e versionamento de APIs",
-          "Integração com gateways de pagamento e serviços externos",
-          "Documentação técnica e testes antes de cada release",
-          "Alta taxa de aceitação dos sistemas entregues pelos clientes"
-        ]
+        "summary": "Desenvolvimento de sistemas sob demanda para clientes de diversos segmentos."
       }
     ]
   }
