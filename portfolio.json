@@ -5,7 +5,7 @@
     "textColor": "#0F172A"
   },
   "sections": {
-    "about": "Sou desenvolvedor(a) Full-Stack com foco em TypeScript, React e Node.js. Gosto de construir produtos escaláveis, bem testados e com boa experiência de usuário.",
+    "about": "Sou desenvolvedor(a) Full-Stack com foco em TypeScript, React e Node.js.",
     "skills": [
       "TypeScript",
       "React",
