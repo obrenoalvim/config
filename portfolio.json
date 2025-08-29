@@ -1,8 +1,8 @@
 {
   "theme": {
-    "primaryColor": "#003a45",
+    "primaryColor": "#FFFFFF",
     "backgroundColor": "#FFFFFF",
-    "textColor": "#0F172A"
+    "textColor": "#FFFFFF"
   },
   "sections": {
     "about": "Sou desenvolvedor(a) Full-Stack com foco em TypeScript, React e Node.js.",
