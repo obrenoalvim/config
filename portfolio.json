@@ -1,8 +1,7 @@
 {
-  "linkedinProfile": "obrenoalvim",
   "theme": {
-    "primaryColor": "#3B82F6",
-    "backgroundColor": "#FFFFFF",
+    "primaryColor": "#003a45",
+    "backgroundColor": "#F8FAFC",
     "textColor": "#0F172A"
   },
   "sections": {
@@ -17,9 +16,8 @@
       "Tailwind CSS",
       "PostgreSQL",
       "Jest"
-    ]
-  },
-  "experience": [
+    ],
+    "experience": [
       {
         "title": "Desenvolvedor Full-Stack Pleno",
         "company": "Movida Aluguel de Carros",
@@ -43,6 +41,7 @@
         "company": "Capital Nerd",
         "period": "03/2018 - 06/2020",
         "summary": "Fui responsável pelo desenvolvimento de sistemas sob demanda para diversos clientes, atuando desde o levantamento de requisitos até a entrega final em produção. Modelei e desenvolvi aplicações com Angular no frontend e .NET Core em C# no backend, aplicando princípios de componentização, versionamento de API e integração com gateways de pagamento e serviços externos. Realizei a documentação técnica e garanti testes manuais e automatizados antes de cada release. As soluções entregues obtiveram alta taxa de aceitação pelos clientes e contribuíram para a expansão do portfólio da empresa."
-      }
-    ]
+      }
+    ]
+  }
 }
