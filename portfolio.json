@@ -18,5 +18,31 @@
       "PostgreSQL",
       "Jest"
     ]
-  }
+  },
+  "experience": [
+      {
+        "title": "Desenvolvedor Full-Stack Pleno",
+        "company": "Movida Aluguel de Carros",
+        "period": "10/2023 - Presente",
+        "summary": "Atuando como desenvolvedor pleno na Movida, fui designado para atuar na sustentação e evolução de sistemas internos voltados à gestão de contratos de veículos. O desafio principal era garantir a confiabilidade e estabilidade de aplicações críticas utilizadas por diversas áreas da empresa. Assumi tarefas de análise e correção de falhas recorrentes, além de implementar novas funcionalidades solicitadas pelo time de negócios. Utilizei Angular no frontend para garantir uma interface fluida e responsiva, e C# no backend com .NET para manter a consistência dos dados e integração entre sistemas. Participei de rituais ágeis e interagi com analistas e QA para alinhar expectativas, antecipar problemas e reduzir retrabalho. Como resultado, contribuí para a diminuição de bugs em produção, aumentei a cobertura de testes em módulos críticos e ajudei a reduzir em mais de 40% o tempo médio de resolução de incidentes de alta prioridade."
+      },
+      {
+        "title": "Desenvolvedor Full-Stack Pleno",
+        "company": "Fazenda São Francisco",
+        "period": "10/2022 - 10/2023",
+        "summary": "Fui responsável por projetar e desenvolver um novo sistema de controle agrícola para substituir processos baseados em planilhas e relatórios impressos. Realizei a análise de requisitos junto às equipes de campo e gestão, desenhei a arquitetura da aplicação e implementei uma solução completa com React no frontend, C# com .NET no backend e PostgreSQL como base de dados. Implementei integrações com sensores de campo e dashboards interativos para visualização de dados em tempo real. A aplicação melhorou a precisão dos registros operacionais, otimizou a produtividade da equipe e reduziu o tempo de processamento de relatórios estratégicos."
+      },
+      {
+        "title": "Desenvolvedor Full-Stack",
+        "company": "B-Tech",
+        "period": "06/2020 - 10/2022",
+        "summary": "Assumi a missão de reestruturar sistemas legados monolíticos com foco em escalabilidade e manutenibilidade. Colaborei com o time de produto para mapear fluxos críticos e redesenhei os serviços em microsserviços utilizando Spring Boot, Java e banco de dados relacional. Modelei a arquitetura baseada em eventos, implementei cache com Redis e organizei testes automatizados com JUnit e Postman. Atuei também na mentoria de desenvolvedores juniores e na condução de code reviews. O novo ecossistema reduziu falhas em produção e acelerou a integração com parceiros externos."
+      },
+      {
+        "title": "Desenvolvedor Web Full-Stack",
+        "company": "Capital Nerd",
+        "period": "03/2018 - 06/2020",
+        "summary": "Fui responsável pelo desenvolvimento de sistemas sob demanda para diversos clientes, atuando desde o levantamento de requisitos até a entrega final em produção. Modelei e desenvolvi aplicações com Angular no frontend e .NET Core em C# no backend, aplicando princípios de componentização, versionamento de API e integração com gateways de pagamento e serviços externos. Realizei a documentação técnica e garanti testes manuais e automatizados antes de cada release. As soluções entregues obtiveram alta taxa de aceitação pelos clientes e contribuíram para a expansão do portfólio da empresa."
+      }
+    ]
 }
