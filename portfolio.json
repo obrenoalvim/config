@@ -19,7 +19,7 @@
     ],
     "experience": [
       {
-        "title": "Desenvolvedor Full-Stack Pleno",
+        "title": "Desenvolvedor Full-Stack Pl/Sr",
         "company": "Movida Carro Por Assinatura",
         "period": "Out 2023 - Presente",
         "summary": "Na Movida, conduzi a modernização de um sistema legado de contratos com front-end em Angular 16 e micro frontends, integrando APIs em .NET 8 e C# para novas funcionalidades. Apliquei RxJS e NgRx para consistência de estado e desempenho, e utilizei Docker para padronizar ambientes de desenvolvimento e deploy. Em parceria com produto, trabalhei orientação a dados para otimizar UX, reduzindo retrabalho e elevando a adoção por usuários internos. Mantive pipeline de CI/CD com Jenkins em integração contínua, assegurando releases frequentes com testes automatizados em TypeScript/Jest e validação de endpoints REST protegidos por JWT."
