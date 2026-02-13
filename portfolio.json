@@ -22,7 +22,7 @@
       "company": "Movida Aluguel de Carros",
       "location": "Barreiras, BA",
       "period": "Out 2023 - Atual",
-      "bullets": [
+      "summary": [
         "Modernizei um sistema legado de contratos com front-end em Angular 16 e arquitetura de micro frontends, evoluindo módulos críticos com foco em manutenibilidade e performance.",
         "Atuei em backend com PHP/Laravel e .NET 8 / C#, entregando novas funcionalidades e integrações entre sistemas.",
         "Estruturei e mantive integrações via APIs REST, garantindo padronização de contratos e consistência entre front e back.",
@@ -37,7 +37,7 @@
       "company": "Fazenda São Francisco",
       "location": "Barreiras, BA",
       "period": "Out 2022 - Out 2023",
-      "bullets": [
+      "summary": [
         "Reestruturei um monólito para uma arquitetura orientada a serviços, com comunicação via APIs REST e separação de responsabilidades.",
         "Desenvolvi serviços com Node/NestJS e PostgreSQL (TypeORM), priorizando escalabilidade e manutenção.",
         "Implementei autenticação e proteção de endpoints com JWT, garantindo acesso seguro entre aplicações.",
@@ -52,7 +52,7 @@
       "company": "B-Tech",
       "location": "Barreiras, BA",
       "period": "Jun 2020 - Out 2022",
-      "bullets": [
+      "summary": [
         "Mantive e evoluí aplicações internas em PHP/Laravel, com front-end em Vue.js e banco MySQL.",
         "Refatorei o módulo de faturamento para processamento assíncrono com filas em Redis, reduzindo em +70% o tempo médio de geração de relatórios.",
         "Padronizei APIs REST e contratos de integração para consumo por front-ends em JavaScript/TypeScript (e React quando necessário).",
@@ -66,7 +66,7 @@
       "company": "Capital Nerd",
       "location": "Barreiras, BA",
       "period": "Mar 2018 - Jun 2020",
-      "bullets": [
+      "summary": [
         "Desenvolvi sistemas sob demanda para pequenas empresas com React e Next.js, integrando APIs externas.",
         "Implementei funcionalidades com foco em experiência e performance no front-end (JavaScript/TypeScript).",
         "Usei MongoDB em cenários onde flexibilidade de dados e velocidade de evolução eram prioridades.",
