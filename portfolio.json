@@ -17,30 +17,34 @@
       "PostgreSQL"
     ],
     "experience": [
-      {
-        "title": "Desenvolvedor Full-Stack Pl/Sr",
-        "company": "Movida Carro Por Assinatura",
-        "period": "Out 2023 - Presente",
-        "summary": "Na Movida, conduzi a modernização de um sistema legado de contratos com front-end em Angular 16 e micro frontends, integrando APIs em .NET 8 e C# para novas funcionalidades. Apliquei RxJS e NgRx para consistência de estado e desempenho, e utilizei Docker para padronizar ambientes de desenvolvimento e deploy. Em parceria com produto, trabalhei orientação a dados para otimizar UX, reduzindo retrabalho e elevando a adoção por usuários internos. Mantive pipeline de CI/CD com Jenkins em integração contínua, assegurando releases frequentes com testes automatizados em TypeScript/Jest e validação de endpoints REST protegidos por JWT."
-      },
-      {
-        "title": "Desenvolvedor Full-Stack Pleno",
-        "company": "Fazenda São Francisco",
-        "period": "Out 2022 - Out 2023",
-        "summary": "Reestruturei um monolito para uma arquitetura de microsserviços, expondo APIs RESTful seguras com autenticação JWT e implementando testes automatizados com Jest para aumentar a confiabilidade. Desenvolvi serviços com NestJS e PostgreSQL/TypeORM e conteinerizei componentes com Docker, o que acelerou o ciclo de entrega e simplificou a observabilidade e manutenção. A nova topologia de serviços reduziu o tempo de deploy e facilitou integrações com BI; os pipelines de CI/CD em Jenkins garantiram versionamento consistente e verificações automáticas em TypeScript e JavaScript, alinhando-se a práticas de clean code e padrões de integração entre serviços."
-      },
-      {
-        "title": "Desenvolvedor Full-Stack",
-        "company": "B-Tech",
-        "period": "Jun 2020 - Out 2022",
-        "summary": "Mantive e evoluí aplicações internas em PHP e Laravel com Vue.js e MySQL, refatorando o módulo de faturamento para processamento assíncrono com filas em Redis, o que reduziu em mais de 70% o tempo médio de geração de relatórios. Estruturei endpoints REST e padronizei contratos para facilitar consumo por front-ends em JavaScript/TypeScript e React quando necessário. Introduzi práticas de testes automatizados e pipeline de integração contínua com Jenkins, além de conteinerização com Docker em serviços elegíveis, melhorando previsibilidade de deploy e estabilidade em produção."
-      },
-      {
-        "title": "Desenvolvedor Web Full-Stack",
-        "company": "Capital Nerd",
-        "period": "Mar 2018 - Jun 2020",
-        "summary": "Atendi pequenas empresas construindo sistemas sob demanda com React e Next.js integrados a APIs externas, utilizando MongoDB quando a flexibilidade de dados era prioritária. Em um projeto de delivery, implementei geolocalização com atualização em tempo real e integrações REST, garantindo performance no front-end em JavaScript/TypeScript e robustez no backend. Mantive foco em performance e entregas consistentes, com uso de Docker em ambientes de desenvolvimento e boas práticas de versionamento, além de experiência prévia com Angular e variações como micro frontends conforme a necessidade."
-      }
-    ]
+    {
+      "title": "Desenvolvedor Full-Stack Sr",
+      "company": "Movida Aluguel de Carros",
+      "location": "Barreiras, BA",
+      "period": "Out 2023 - Atual",
+      "summary": "Modernizei um sistema legado de contratos com front-end em Angular 16 e arquitetura de micro frontends, evoluindo módulos críticos com foco em manutenibilidade e performance. Atuei no backend com PHP/Laravel e .NET 8/C#, entregando novas funcionalidades e integrações entre sistemas. Estruturei e mantive integrações via APIs REST com padronização de contratos e consistência entre front e back, incluindo autenticação e proteção de endpoints com JWT e práticas de validação para consumo interno. Usei RxJS e NgRx para controle de estado e reatividade no Angular, reduzindo inconsistências e retrabalho. Padronizei ambientes com Docker e fortaleci CI/CD (Jenkins) com entregas frequentes e testes automatizados (TypeScript/Jest) para aumentar qualidade e previsibilidade de releases."
+    },
+    {
+      "title": "Desenvolvedor Full-Stack Pleno",
+      "company": "Fazenda São Francisco",
+      "location": "Barreiras, BA",
+      "period": "Out 2022 - Out 2023",
+      "summary": "Reestruturei um monólito para uma arquitetura orientada a serviços, com comunicação via APIs REST e separação de responsabilidades. Desenvolvi serviços com Node/NestJS e PostgreSQL (TypeORM), priorizando escalabilidade e manutenção. Implementei autenticação e proteção de endpoints com JWT, garantindo acesso seguro entre aplicações. Aumentei a confiabilidade do código com testes automatizados (Jest) em TypeScript/JavaScript. Conteinerizei componentes com Docker para padronizar ambientes e reduzir tempo de setup. Criei e evoluí pipelines de CI/CD (Jenkins) com validações automáticas (build/test) antes de deploy e padronizei logging/rotinas de suporte para facilitar troubleshooting e manutenção do ecossistema."
+    },
+    {
+      "title": "Desenvolvedor Web Full-Stack Pleno",
+      "company": "B-Tech",
+      "location": "Barreiras, BA",
+      "period": "Jun 2020 - Out 2022",
+      "summary": "Mantive e evoluí aplicações internas em PHP/Laravel, com front-end em Vue.js e banco MySQL. Refatorei o módulo de faturamento para processamento assíncrono com filas em Redis, reduzindo em mais de 70% o tempo médio de geração de relatórios. Padronizei APIs REST e contratos de integração para consumo por front-ends em JavaScript/TypeScript (e React quando necessário). Estruturei rotinas para aumentar estabilidade e previsibilidade de entrega, incluindo CI/CD (Jenkins). Adotei Docker em componentes elegíveis para padronizar ambientes e reduzir problemas entre dev/homolog/prod, além de melhorias contínuas de manutenibilidade com refatorações guiadas por impacto e foco em qualidade de código."
+    },
+    {
+      "title": "Desenvolvedor Web Full-Stack Jr",
+      "company": "Capital Nerd",
+      "location": "Barreiras, BA",
+      "period": "Mar 2018 - Jun 2020",
+      "summary": "Desenvolvi sistemas sob demanda para pequenas empresas com React e Next.js, integrando APIs externas. Implementei funcionalidades com foco em experiência e performance no front-end (JavaScript/TypeScript). Usei MongoDB em cenários onde flexibilidade de dados e velocidade de evolução eram prioridades. Em um projeto de delivery, implementei geolocalização e atualização em tempo real, garantindo boa responsividade no uso. Organizei ambientes de desenvolvimento com Docker e boas práticas de versionamento para entregas consistentes."
+    }
+  ]
   }
 }
