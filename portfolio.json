@@ -18,28 +18,28 @@
     ],
    "experience": [
       {
-        "title": "Desenvolvedor Full-Stack Pl/Sr",
-        "company": "Movida Carro Por Assinatura",
-        "period": "Out 2023 - Presente",
-        "summary": "Na Movida, conduzi a modernização de um sistema legado de contratos com front-end em Angular 16 e micro frontends, integrando APIs em .NET 8 e C# para novas funcionalidades. Apliquei RxJS e NgRx para consistência de estado e desempenho, e utilizei Docker para padronizar ambientes de desenvolvimento e deploy. Em parceria com produto, trabalhei orientação a dados para otimizar UX, reduzindo retrabalho e elevando a adoção por usuários internos. Mantive pipeline de CI/CD com Jenkins em integração contínua, assegurando releases frequentes com testes automatizados em TypeScript/Jest e validação de endpoints REST protegidos por JWT."
+        "title": "Mid/Senior Full-Stack Developer",
+        "company": "Movida Car Subscription",
+        "period": "Oct 2023 - Present",
+        "summary": "At Movida, I led the modernization of a legacy contract management system, building the front end with Angular 16 and micro frontends, while integrating .NET 8 and C# APIs to deliver new features. I applied RxJS and NgRx to improve state consistency and performance, and used Docker to standardize development and deployment environments. In close collaboration with the product team, I took a data-driven approach to optimize the user experience, reducing rework and increasing adoption among internal users. I also maintained a CI/CD pipeline with Jenkins, ensuring frequent releases supported by automated TypeScript/Jest tests and validation of JWT-protected REST endpoints."
       },
       {
-        "title": "Desenvolvedor Full-Stack Pleno",
+        "title": "Mid-Level Full-Stack Developer",
         "company": "Fazenda São Francisco",
-        "period": "Out 2022 - Out 2023",
-        "summary": "Reestruturei um monolito para uma arquitetura de microsserviços, expondo APIs RESTful seguras com autenticação JWT e implementando testes automatizados com Jest para aumentar a confiabilidade. Desenvolvi serviços com NestJS e PostgreSQL/TypeORM e conteinerizei componentes com Docker, o que acelerou o ciclo de entrega e simplificou a observabilidade e manutenção. A nova topologia de serviços reduziu o tempo de deploy e facilitou integrações com BI; os pipelines de CI/CD em Jenkins garantiram versionamento consistente e verificações automáticas em TypeScript e JavaScript, alinhando-se a práticas de clean code e padrões de integração entre serviços."
+        "period": "Oct 2022 - Oct 2023",
+        "summary": "I restructured a monolithic application into a microservices architecture, exposing secure RESTful APIs with JWT authentication and implementing automated tests with Jest to improve reliability. I developed services using NestJS and PostgreSQL/TypeORM and containerized components with Docker, which accelerated the delivery cycle and simplified observability and maintenance. The new service topology reduced deployment time and facilitated BI integrations; Jenkins-based CI/CD pipelines ensured consistent versioning and automated checks in TypeScript and JavaScript, aligned with clean code practices and service integration standards."
       },
       {
-        "title": "Desenvolvedor Full-Stack",
+        "title": "Full-Stack Developer",
         "company": "B-Tech",
-        "period": "Jun 2020 - Out 2022",
-        "summary": "Mantive e evoluí aplicações internas em PHP e Laravel com Vue.js e MySQL, refatorando o módulo de faturamento para processamento assíncrono com filas em Redis, o que reduziu em mais de 70% o tempo médio de geração de relatórios. Estruturei endpoints REST e padronizei contratos para facilitar consumo por front-ends em JavaScript/TypeScript e React quando necessário. Introduzi práticas de testes automatizados e pipeline de integração contínua com Jenkins, além de conteinerização com Docker em serviços elegíveis, melhorando previsibilidade de deploy e estabilidade em produção."
+        "period": "Jun 2020 - Oct 2022",
+        "summary": "I maintained and enhanced internal applications built with PHP and Laravel, using Vue.js and MySQL, and refactored the billing module for asynchronous processing with Redis queues, reducing average report generation time by more than 70%. I structured REST endpoints and standardized contracts to simplify consumption by JavaScript/TypeScript and React front ends when needed. I also introduced automated testing practices and a continuous integration pipeline with Jenkins, along with Docker-based containerization for eligible services, improving deployment predictability and production stability."
       },
       {
-        "title": "Desenvolvedor Web Full-Stack",
+        "title": "Full-Stack Web Developer",
         "company": "Capital Nerd",
         "period": "Mar 2018 - Jun 2020",
-        "summary": "Atendi pequenas empresas construindo sistemas sob demanda com React e Next.js integrados a APIs externas, utilizando MongoDB quando a flexibilidade de dados era prioritária. Em um projeto de delivery, implementei geolocalização com atualização em tempo real e integrações REST, garantindo performance no front-end em JavaScript/TypeScript e robustez no backend. Mantive foco em performance e entregas consistentes, com uso de Docker em ambientes de desenvolvimento e boas práticas de versionamento, além de experiência prévia com Angular e variações como micro frontends conforme a necessidade."
+        "summary": "I worked with small businesses to build custom systems using React and Next.js integrated with external APIs, leveraging MongoDB whenever data flexibility was a priority. In a delivery project, I implemented geolocation with real-time updates and REST integrations, ensuring strong front-end performance in JavaScript/TypeScript and a robust backend. I maintained a strong focus on performance and consistent delivery, using Docker in development environments and applying version control best practices, while also drawing on prior experience with Angular and variations such as micro frontends whenever required."
       }
     ]
   }
