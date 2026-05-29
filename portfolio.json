@@ -16,43 +16,30 @@
       "Laravel",
       "PostgreSQL"
     ],
-   "experience": [
+    "experience": [
       {
         "title": "Mid/Senior Full-Stack Developer",
         "company": "Movida Car Subscription",
         "period": "Oct 2023 - Present",
-        "summary": "- Desenvolvi e mantive APIs RESTful em PHP/Laravel para sistemas críticos de gestão de frota, reduzindo o tempo médio de resposta dos endpoints de ~800ms para ~200ms com otimizações de query e cache. (PHP, Laravel, Eloquent ORM, filas e eventos)
-- Construí 3 microfrontends em Angular 16 com NgRx e RxJS para módulos independentes de gestão operacional, permitindo que times diferentes fizessem deploy sem afetar o restante da plataforma. (TypeScript, Angular, NgRx, RxJS)
-- Projetei e mantive arquitetura de microsserviços com comunicação síncrona (REST) e assíncrona (filas), integrando mais de 8 serviços distribuídos e garantindo disponibilidade acima de 99% nos fluxos críticos de locação.
-- Estruturei pipelines de CI/CD com Jenkins e Docker, reduzindo o tempo de deploy de ~40 minutos para ~8 minutos e eliminando deploys manuais — aumentando a frequência de entregas do time de semanal para diária.
-- Conduzi code reviews sistemáticos em um time de 6 desenvolvedores, introduzindo padrões de clean code e design patterns que reduziram em ~30% o volume de bugs reportados em produção ao longo de 6 meses.
-- Incorporei IA ao fluxo de desenvolvimento e ao produto: uso de LLMs (ChatGPT, Copilot) para acelerar planejamento, revisão de código e debugging, e integração de APIs de IA (OpenAI) em funcionalidades do sistema para automação de processos internos."
+        "summary": "- Desenvolvi e mantive APIs RESTful em PHP/Laravel para sistemas críticos de gestão de frota, reduzindo o tempo médio de resposta dos endpoints de ~800ms para ~200ms com otimizações de query e cache. (PHP, Laravel, Eloquent ORM, filas e eventos)\n- Construí 3 microfrontends em Angular 16 com NgRx e RxJS para módulos independentes de gestão operacional, permitindo que times diferentes fizessem deploy sem afetar o restante da plataforma. (TypeScript, Angular, NgRx, RxJS)\n- Projetei e mantive arquitetura de microsserviços com comunicação síncrona (REST) e assíncrona (filas), integrando mais de 8 serviços distribuídos e garantindo disponibilidade acima de 99% nos fluxos críticos de locação.\n- Estruturei pipelines de CI/CD com Jenkins e Docker, reduzindo o tempo de deploy de ~40 minutos para ~8 minutos e eliminando deploys manuais — aumentando a frequência de entregas do time de semanal para diária.\n- Conduzi code reviews sistemáticos em um time de 6 desenvolvedores, introduzindo padrões de clean code e design patterns que reduziram em ~30% o volume de bugs reportados em produção ao longo de 6 meses.\n- Incorporei IA ao fluxo de desenvolvimento e ao produto: uso de LLMs (ChatGPT, Copilot) para acelerar planejamento, revisão de código e debugging, e integração de APIs de IA (OpenAI) em funcionalidades do sistema para automação de processos internos."
       },
       {
         "title": "Mid-Level Full-Stack Developer",
         "company": "Fazenda São Francisco",
         "period": "Oct 2022 - Oct 2023",
-        "summary": "- Reestruturei monólito legado em arquitetura orientada a serviços com Node.js/NestJS, dividindo a aplicação em 5 microsserviços independentes e reduzindo o tempo de onboarding de novos devs de semanas para dias.
-- Desenvolvi serviços back-end com NestJS e PostgreSQL (TypeORM), cobrindo 100% dos módulos críticos com testes automatizados via Jest — reduzindo regressões em produção em ~40%.
-- Implementei autenticação JWT, conteinerização com Docker e pipelines CI/CD (Jenkins), automatizando validações de build que antes eram feitas manualmente a cada entrega.
-- Padronizei logging e observabilidade nos microsserviços, reduzindo o tempo médio de diagnóstico de incidentes de ~2 horas para ~20 minutos."
+        "summary": "- Reestruturei monólito legado em arquitetura orientada a serviços com Node.js/NestJS, dividindo a aplicação em 5 microsserviços independentes e reduzindo o tempo de onboarding de novos devs de semanas para dias.\n- Desenvolvi serviços back-end com NestJS e PostgreSQL (TypeORM), cobrindo 100% dos módulos críticos com testes automatizados via Jest — reduzindo regressões em produção em ~40%.\n- Implementei autenticação JWT, conteinerização com Docker e pipelines CI/CD (Jenkins), automatizando validações de build que antes eram feitas manualmente a cada entrega.\n- Padronizei logging e observabilidade nos microsserviços, reduzindo o tempo médio de diagnóstico de incidentes de ~2 horas para ~20 minutos."
       },
       {
         "title": "Full-Stack Developer",
         "company": "B-Tech",
         "period": "Jun 2020 - Oct 2022",
-        "summary": "- Mantive e evolui aplicações PHP/Laravel no back-end com Vue.js no front-end, implementando filas e eventos com RabbitMQ para processamento assíncrono de alto volume de transações.  
-- Refatorei módulo de faturamento com processamento assíncrono via filas Laravel, reduzindo em +70% o tempo de geração de relatórios e eliminando gargalos críticos de produção.  
-- Padronizei contratos de API RESTful consumidos por múltiplos frontends em TypeScript (React e Vue.js), eliminando inconsistências de integração e reduzindo chamadas com erro em ~50%. 
-- Adotei Docker para padronização de ambientes dev/homolog/prod e estruturei CI/CD com Jenkins, eliminando inconsistências de ambiente e acelerando o ciclo de entrega do time."
+        "summary": "- Mantive e evolui aplicações PHP/Laravel no back-end com Vue.js no front-end, implementando filas e eventos com RabbitMQ para processamento assíncrono de alto volume de transações.\n- Refatorei módulo de faturamento com processamento assíncrono via filas Laravel, reduzindo em +70% o tempo de geração de relatórios e eliminando gargalos críticos de produção.\n- Padronizei contratos de API RESTful consumidos por múltiplos frontends em TypeScript (React e Vue.js), eliminando inconsistências de integração e reduzindo chamadas com erro em ~50%.\n- Adotei Docker para padronização de ambientes dev/homolog/prod e estruturei CI/CD com Jenkins, eliminando inconsistências de ambiente e acelerando o ciclo de entrega do time."
       },
       {
         "title": "Full-Stack Web Developer",
         "company": "Capital Nerd",
         "period": "Mar 2018 - Jun 2020",
-        "summary": "- Desenvolvi sistemas sob demanda em React e Next.js (SSR/SSG) com TypeScript, entregando 4 projetos do zero com integração a APIs REST externas e interfaces responsivas.
-- Implementei geolocalização e atualização em tempo real em plataforma de delivery, reduzindo o tempo de resposta de localização de ~3s para menos de 500ms e melhorando a experiência de rastreamento dos usuários.
-- Utilizei MongoDB em cenários de dados flexíveis e organizei ambientes com Docker e Git, garantindo entregas consistentes em metodologia ágil com ciclos de 2 semanas."
+        "summary": "- Desenvolvi sistemas sob demanda em React e Next.js (SSR/SSG) com TypeScript, entregando 4 projetos do zero com integração a APIs REST externas e interfaces responsivas.\n- Implementei geolocalização e atualização em tempo real em plataforma de delivery, reduzindo o tempo de resposta de localização de ~3s para menos de 500ms e melhorando a experiência de rastreamento dos usuários.\n- Utilizei MongoDB em cenários de dados flexíveis e organizei ambientes com Docker e Git, garantindo entregas consistentes em metodologia ágil com ciclos de 2 semanas."
       }
     ]
   }
