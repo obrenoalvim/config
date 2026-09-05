@@ -12,7 +12,17 @@
       "Next",
       "Node",
       "Laravel",
-      "PostgreSQL"
+      "PostgreSQL",
+      "Docker",
+      "Claude Code"
+    ],
+    "featured": [
+      "claude-terminal-hub",
+      "zero-drift",
+      "findable",
+      "github-portfolio-generator",
+      "relaykit",
+      "no-watermark"
     ],
     "experience": [
       {
@@ -40,5 +50,9 @@
         "summary": "- Desenvolvi sistemas sob demanda em React e Next.js (SSR/SSG) com TypeScript, entregando 4 projetos do zero com integração a APIs REST externas e interfaces responsivas.\n- Implementei geolocalização e atualização em tempo real em plataforma de delivery, reduzindo o tempo de resposta de localização de ~3s para menos de 500ms e melhorando a experiência de rastreamento dos usuários.\n- Utilizei MongoDB em cenários de dados flexíveis e organizei ambientes com Docker e Git, garantindo entregas consistentes em metodologia ágil com ciclos de 2 semanas."
       }
     ]
+  },
+  "social": {
+    "linkedin": "obrenoalvim",
+    "email": "brenoalvim.dev@gmail.com"
   }
 }

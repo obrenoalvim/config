@@ -1,6 +1,8 @@
+English | [Português](README.pt.md)
+
 # config
 
-Personal portfolio configuration consumed by the [GitHub Portfolio Generator](https://github.com/obrenoalvim/portfolioGenerator).
+Personal portfolio configuration consumed by the [GitHub Portfolio Generator](https://github.com/obrenoalvim/github-portfolio-generator).
 
 The generator looks for a public repo named `config` with a `portfolio.json` file at its root and uses it to customize the portfolio rendered at `/<username>` — theme colors, the about text, the skills list and the professional experience timeline.
 
@@ -35,6 +37,11 @@ If the file exists, its values override the defaults (theme, about, skills, expe
         "summary": "What you did and the impact it had."
       }
     ]
+  },
+  "social": {
+    "linkedin": "your-username",
+    "website": "https://yoursite.com",
+    "email": "you@example.com"
   }
 }
 ```
@@ -50,6 +57,9 @@ If the file exists, its values override the defaults (theme, about, skills, expe
 | `sections.skills` | Skills shown as badges |
 | `sections.featured` | Repo names to highlight (case-sensitive) |
 | `sections.experience` | Experience timeline entries (`title`, `company`, `period`, `summary`) |
+| `social.linkedin` | LinkedIn profile (username only) |
+| `social.website` | Personal site/portfolio URL |
+| `social.email` | Contact email |
 
 ## Usage
 
@@ -57,4 +67,4 @@ If the file exists, its values override the defaults (theme, about, skills, expe
 2. Add a `portfolio.json` file at the root following the structure above.
 3. Open `https://<portfolio-generator-host>/<your-username>` to see it applied.
 
-See the generator repo for full details: [obrenoalvim/portfolioGenerator](https://github.com/obrenoalvim/portfolioGenerator).
+See the generator repo for full details: [obrenoalvim/github-portfolio-generator](https://github.com/obrenoalvim/github-portfolio-generator).
