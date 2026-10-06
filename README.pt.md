@@ -1,10 +1,27 @@
-[English](README.md) | Português
+<div align="center">
+
+<img src=".github/logo.svg" alt="Logo do config" width="120" height="120">
 
 # config
 
+**Configuração pessoal de portfólio para o GitHub Portfolio Generator.**<br>
+Um `portfolio.json` que define seu tema, texto "sobre", habilidades e linha do tempo de experiência. Use como modelo para o seu próprio repositório `config`.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/obrenoalvim/config?style=flat&logo=github&color=94a3b8)](https://github.com/obrenoalvim/config/stargazers)
+[![Usado por](https://img.shields.io/badge/Usado_por-GitHub_Portfolio_Generator-a78bfa)](https://github.com/obrenoalvim/github-portfolio-generator)
+
+[English](README.md) · **Português**
+
+[Como funciona](#como-funciona) · [portfolio.json](#estrutura-do-portfoliojson) · [Uso](#uso) · [Perguntas frequentes](#perguntas-frequentes)
+
+</div>
+
+---
+
 Configuração pessoal de portfólio consumida pelo [GitHub Portfolio Generator](https://github.com/obrenoalvim/github-portfolio-generator).
 
-O gerador procura por um repositório público chamado `config` com um arquivo `portfolio.json` na raiz e o usa para personalizar o portfólio renderizado em `/<username>` — cores do tema, texto do "sobre", lista de habilidades e a linha do tempo de experiência profissional.
+O gerador procura por um repositório público chamado `config` com um arquivo `portfolio.json` na raiz e o usa para personalizar o portfólio renderizado em `/<username>`: cores do tema, texto do "sobre", lista de habilidades e a linha do tempo de experiência profissional.
 
 ## Como funciona
 
@@ -68,3 +85,38 @@ Se o arquivo existir, seus valores substituem os padrões (tema, sobre, habilida
 3. Abra `https://<host-do-portfolio-generator>/<seu-username>` para ver aplicado.
 
 Veja o repositório do gerador para todos os detalhes: [obrenoalvim/github-portfolio-generator](https://github.com/obrenoalvim/github-portfolio-generator).
+
+---
+
+## Perguntas frequentes
+
+**O repositório precisa se chamar `config`?**
+Precisa. O gerador busca `https://api.github.com/repos/<username>/config/contents/portfolio.json`, então o nome do repositório e o nome do arquivo precisam bater.
+
+**Precisa ser público?**
+Precisa. O gerador lê pela API pública do GitHub.
+
+**E se eu não criar?**
+O portfólio usa dados puxados diretamente do seu perfil do GitHub.
+
+**Quais campos são obrigatórios?**
+Nenhum é marcado como obrigatório. Os valores que você informar substituem os padrões do gerador. Veja a [tabela de campos](#campos).
+
+## Mais do mesmo autor
+
+- [**github-portfolio-generator**](https://github.com/obrenoalvim/github-portfolio-generator): transforme qualquer perfil do GitHub num site de portfólio.
+- [**linkedin-insights**](https://github.com/obrenoalvim/linkedin-insights): transforme a exportação de analytics do LinkedIn num dashboard.
+
+## Licença
+
+[MIT](LICENSE)
+
+---
+
+<div align="center">
+
+Se isso te ajudou a montar o seu portfólio, uma ⭐ ajuda outras pessoas desenvolvedoras a encontrá-lo.
+
+<sub>**Tópicos:** portfolio-config · github-portfolio · developer-portfolio · portfolio-json · configuration · json</sub>
+
+</div>

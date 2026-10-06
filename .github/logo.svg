@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="config logo">
+<title>config</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1e29"/><stop offset="1" stop-color="#0b0c11"/></linearGradient>
+<radialGradient id="gl" cx=".28" cy=".22" r=".8"><stop offset="0" stop-color="#94A3B8" stop-opacity=".30"/><stop offset="1" stop-color="#94A3B8" stop-opacity="0"/></radialGradient>
+<linearGradient id="g" gradientUnits="userSpaceOnUse" x1="112" y1="96" x2="400" y2="416"><stop offset="0" stop-color="#E2E8F0"/><stop offset="1" stop-color="#94A3B8"/></linearGradient>
+</defs>
+<rect width="512" height="512" rx="112" fill="url(#bg)"/>
+<rect width="512" height="512" rx="112" fill="url(#gl)"/>
+<rect x="3" y="3" width="506" height="506" rx="109" fill="none" stroke="#fff" stroke-opacity=".1" stroke-width="6"/>
+<path d="M104 160H408M104 256H408M104 352H408" stroke="#fff" stroke-opacity=".22" stroke-width="24" stroke-linecap="round"/><circle cx="190" cy="160" r="38" fill="url(#g)"/><circle cx="190" cy="160" r="14" fill="#0b0c11"/><circle cx="326" cy="256" r="38" fill="url(#g)"/><circle cx="326" cy="256" r="14" fill="#0b0c11"/><circle cx="238" cy="352" r="38" fill="url(#g)"/><circle cx="238" cy="352" r="14" fill="#0b0c11"/>
+</svg>
